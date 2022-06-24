@@ -1,0 +1,19 @@
+{
+  "name": "design-patterns",
+  "version": "1.0.0",
+  "description": "Repository to store design patterns and serve as reference",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CCnova/Design-Patterns.git"
+  },
+  "author": "Caio Nova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CCnova/Design-Patterns/issues"
+  },
+  "homepage": "https://github.com/CCnova/Design-Patterns#readme"
+}
